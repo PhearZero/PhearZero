@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋 
 
-<!--
-**PhearZero/PhearZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Isomorphism, CubeScale, and OAS
+- 🌱 I’m currently learning: Machine Learning
+- 👯 I’m looking to collaborate on: ECMAScript/OpenAPI
+- 💬 Ask me about: Node.js, Docker, OAS, JSONSchema
+- 📫 How to reach me: git@phearzero.com 
+- 😄 Pronouns: ∅
+- ⚡ Fun fact: I like pie
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project collections:
+ - General Node.js: @NodeJunkie
+ - Vue.js Experiments: @VueJunkie
+ - Angular Experiments: @AngularJunkie
+ - React Experiments: @React-Junkie
