@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I like pie
 
 ### Project collections:
- - General Node.js: @NodeJunkie
- - Vue.js Experiments: @VueJunkie
- - Angular Experiments: @AngularJunkie
- - React Experiments: @React-Junkie
+ - General Node.js: [@NodeJunkie](https://github.com/NodeJunkie)
+ - Vue.js Experiments: [@VueJunkie](https://github.com/VueJunkie)
+ - Angular Experiments: [@AngularJunkie](https://github.com/AngularJunkie)
+ - React Experiments: [@React-Junkie](https://github.com/React-Junkie)
