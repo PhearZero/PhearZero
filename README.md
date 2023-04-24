@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-- 🔭 I’m currently working on: Isomorphism, CubeScale, Smart Contract/Blockchain, and OAS
+- 🔭 I’m currently working on: Custom Firmware, Isomorphism, CubeScale, Smart Contract/Blockchain, and OAS
 - 🌱 I’m currently learning: Machine Learning
 - 👯 I’m looking to collaborate on: ECMAScript/OpenAPI
 - 💬 Ask me about: Node.js, Docker, OAS, JSONSchema
